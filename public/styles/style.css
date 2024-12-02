@@ -1,0 +1,31 @@
+td {padding:5px;}
+button{margin: 5px;}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.myButton {
+    width:40%;
+    margin-top:3%;
+    text-align:center;
+    font-family: 'CrazyV1', sans-serif;
+    background-color: #712cf9;
+}
+
+body {
+    background-image: url("/public/images/14.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 
+
+.weirdFont{
+    font-family: 'CrazyV1', sans-serif;
+}
