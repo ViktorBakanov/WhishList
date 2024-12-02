@@ -6,7 +6,7 @@ from fastapi.responses import FileResponse, RedirectResponse, JSONResponse, HTML
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from pathlib import Path
-import datetime 
+import datetime
 
 #My Local database
 #SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:poqw0912@localhost:5432/WhishList'
